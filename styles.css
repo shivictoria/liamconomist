@@ -264,6 +264,8 @@ h1 a { text-decoration: none; }
 .article-body > p { margin: 0 0 1.25em; font: 500 clamp(18px, 2vw, 21px)/1.62 var(--serif); }
 .article-body > p:first-child::first-letter { float: left; margin: .07em .1em 0 0; color: var(--red); font: 750 4.2em/.72 var(--serif); }
 .article-body h2 { margin: 1.7em 0 .5em; font: 650 34px/1.08 var(--serif); letter-spacing: -.03em; }
+.article-inline-image { display: block; width: 100%; height: auto; margin-top: 25px; }
+.article-inline-caption { display: block; margin-top: 6px; color: var(--muted); font: 9px/1.4 var(--sans); }
 .pull-quote { margin: 45px -80px; padding: 25px 80px; border: solid var(--red); border-width: 4px 0 1px; color: var(--red); font: 650 clamp(29px, 4vw, 46px)/1.05 var(--serif); letter-spacing: -.04em; }
 .article-not-found { min-height: 55vh; display: grid; place-items: center; text-align: center; }
 @media (max-width: 720px) { .pull-quote { margin-inline: 0; padding-inline: 0; } }

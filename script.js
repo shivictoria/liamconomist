@@ -46,22 +46,6 @@ function populateHomepage() {
     $("[data-featured-caption]").textContent = featured.imageCaption || "Image: Liamconomist";
   }
 
-  [1, 2, 3].forEach((slot, index) => {
-    const article = articles.filter((item) => item.id !== featured.id)[index];
-    const link = $(`[data-story-title="${slot}"]`);
-    if (!article || !link) return;
-    link.textContent = article.title;
-    link.href = articleUrl(article.id);
-    const summary = $(`[data-story-summary="${slot}"]`);
-    if (summary) summary.textContent = article.summary;
-  });
-
-  articles.slice(0, 5).forEach((article, index) => {
-    const link = $(`[data-most-read="${index}"]`);
-    if (!link) return;
-    link.textContent = article.title;
-    link.href = articleUrl(article.id);
-  });
 }
 
 populateHomepage();
@@ -99,7 +83,7 @@ $(".modal__close", searchModal).addEventListener("click", () => closeDialog(sear
 searchInput.addEventListener("input", () => {
   const query = searchInput.value.trim().toLowerCase();
   if (!query) {
-    searchResults.innerHTML = "<p>Popular searches: housing, coffee, vibes, lamington</p>";
+    searchResults.innerHTML = "<p>Popular searches: housing, coffee, vibes, creatine</p>";
     return;
   }
   const matches = stories.filter(([tag, title]) => `${tag} ${title}`.toLowerCase().includes(query));
