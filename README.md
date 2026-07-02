@@ -1,6 +1,7 @@
 # Liamconomist
+Inspiring progress chaotically.
 
-An original, independent parody newspaper covering events, decisions and policy shifts in the life of Liam. It is inspired by the visual grammar of serious weekly journalism.
+An original, independent newspaper covering events, decisions and policy shifts in the life of Liam Cunneen. 
 
 To publish a new article, follow [`HOW_TO_PUBLISH.md`](HOW_TO_PUBLISH.md). Stories are entered in one simple JavaScript file and automatically appear on the homepage, search, most-read list and full article page.
 
