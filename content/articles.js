@@ -397,7 +397,7 @@ window.LIAM_ARTICLES = [
     summary: "A spy network staffed by the world’s youngest and brightest.",
     author: "Kris Kristensen",
     date: "2026-07-02",
-    location: "Carlton",
+    location: "Geelong",
     readTime: "7 min read",
     image: "assets/spies2.jpg",
     imageCaption: "Image: They don't look anything like James Bond.",
