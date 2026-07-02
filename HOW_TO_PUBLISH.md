@@ -1,5 +1,7 @@
 # How to add a Liam story
 
+For the review-first drafting process—including completing half-written articles—see [`ARTICLE_WORKFLOW.md`](ARTICLE_WORKFLOW.md).
+
 All stories live in [`content/articles.js`](content/articles.js). You do not need to edit the HTML.
 
 1. Open [`content/ARTICLE_TEMPLATE.js`](content/ARTICLE_TEMPLATE.js).
@@ -8,6 +10,15 @@ All stories live in [`content/articles.js`](content/articles.js). You do not nee
 4. Replace the headline, summary, date, quote and body paragraphs.
 5. Give it a unique `id`, using lowercase words separated by hyphens.
 6. To feature it as the large front-page story, set its `featured` field to `true` and set every other article to `false`.
+
+Use one of these categories to place the story on its section page: `Life updates`, `Decisions`, `Liam opinion`, or `Charts & vibes`. Older category names are also recognised for compatibility.
+
+Before publishing, validate either the changed article or the entire collection:
+
+```bash
+node scripts/article-workflow.js validate your-article-id
+node scripts/article-workflow.js validate
+```
 
 ## Add a photo
 

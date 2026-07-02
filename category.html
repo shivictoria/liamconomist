@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="The latest Liamconomist stories by category." />
+    <title>Section — Liamconomist</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&amp;family=Libre+Franklin:wght@600;700&amp;family=Source+Serif+4:opsz,wght@8..60,500;8..60,650;8..60,750&amp;display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+    <script defer src="content/articles.js"></script>
+    <script defer src="category-page.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#topic-content">Skip to stories</a>
+    <div class="satire-bar"><p><strong>Parody edition.</strong> Dedicated coverage of Liam’s most consequential developments.</p></div>
+    <header class="site-header">
+      <div class="header-actions shell">
+        <button class="icon-button menu-button" type="button" aria-expanded="false" aria-controls="site-nav">
+          <span class="sr-only">Open menu</span><span aria-hidden="true"></span><span aria-hidden="true"></span><span aria-hidden="true"></span>
+        </button>
+        <a class="masthead" href="index.html" aria-label="Liamconomist home"><span>L</span>iamconomist</a>
+        <div class="header-utilities"><a class="button button--dark" href="articles.html">All articles</a></div>
+      </div>
+      <nav class="section-nav" id="site-nav" aria-label="Sections">
+        <div class="shell nav-scroll">
+          <a href="index.html">Latest</a>
+          <a href="briefing.html">Liam's briefing</a>
+          <a data-topic-link="life-updates" href="category.html?category=life-updates">Life updates</a>
+          <a data-topic-link="decisions" href="category.html?category=decisions">Decisions</a>
+          <a data-topic-link="opinion" href="category.html?category=opinion">Liam opinion</a>
+          <a data-topic-link="charts-vibes" href="category.html?category=charts-vibes">Charts &amp; vibes</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="topic-page shell" id="topic-content">
+      <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="index.html">Home</a><span>/</span><a href="articles.html">Topics</a><span>/</span><span id="breadcrumb-topic"></span></nav>
+      <header class="topic-heading">
+        <h1 id="topic-title">Life updates</h1>
+        <div class="topic-heading__intro"><p id="topic-description"></p><span class="topic-heading__count" id="topic-count"></span></div>
+      </header>
+      <section class="topic-lead" id="topic-lead" aria-label="Top stories"></section>
+      <section class="topic-latest" aria-labelledby="latest-title">
+        <h2 class="topic-section-title" id="latest-title">Latest</h2>
+        <div id="topic-latest-list"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="shell footer-grid">
+        <div><a class="masthead masthead--footer" href="index.html"><span>L</span>iamconomist</a><p>Extremely serious analysis of one mildly important man.</p></div>
+        <div><h2>Sections</h2><a href="briefing.html">Liam’s briefing</a><a href="category.html?category=life-updates">Life updates</a><a href="category.html?category=decisions">Decisions</a><a href="category.html?category=opinion">Liam opinion</a><a href="category.html?category=charts-vibes">Charts &amp; vibes</a></div>
+        <div><h2>Fine print</h2><a href="articles.html">Article index</a><a href="index.html#disclaimer">Satire disclaimer</a></div>
+      </div>
+      <div class="legal shell"><p>Liamconomist is an independent parody and is not affiliated with, endorsed by, or connected to The Economist or The Economist Group.</p></div>
+    </footer>
+  </body>
+</html>

@@ -16,7 +16,14 @@ if (!article) {
 } else {
   document.title = `${article.title} — Liamconomist`;
   document.querySelector('meta[name="description"]').content = article.summary;
-  const image = article.image ? `
+  const media = article.video ? `
+    <figure class="article-hero article-hero--video">
+      <video controls playsinline preload="metadata" poster="${article.videoPoster || article.image || ""}" aria-label="${article.videoAlt || article.imageAlt || "Article video"}">
+        <source src="${article.video}" type="video/mp4" />
+        Your browser does not support embedded video. <a href="${article.video}">Open the video file</a>.
+      </video>
+      <figcaption>${article.videoCaption || article.imageCaption || "Video: Liamconomist"}</figcaption>
+    </figure>` : article.image ? `
     <figure class="article-hero">
       <img src="${article.image}" alt="${article.imageAlt || ""}" />
       <figcaption>${article.imageCaption || "Image: Liamconomist"}</figcaption>
@@ -34,7 +41,7 @@ if (!article) {
         <p class="article-deck">${article.summary}</p>
         <div class="article-meta"><span class="author-mark" aria-hidden="true">L</span><p>By <strong>${article.author}</strong><br>${safeDate(article.date)} · ${article.readTime} · ${article.location}</p></div>
       </header>
-      ${image}
+      ${media}
       <div class="article-body article-shell">${paragraphs}</div>
     </article>`;
 }

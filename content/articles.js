@@ -15,8 +15,8 @@ window.LIAM_ARTICLES = [
     id: "takeaway-policy",
     featured: true,
     category: "Domestic policy",
-    title: "Liam signals historic shift on Friday-night takeaway policy",
-    summary: "After weeks of backing Thai food, Liam has opened the door to pizza. Insiders describe the move as pragmatic, courageous and mostly prompted by a voucher.",
+    title: "Liam signals historic shift on takeaway policy",
+    summary: "After weeks of living in his own Brunswick home, Liam's family have reported a 60% decrease in missing food. Insiders describe the move as pragmatic, courageous and mostly prompted by Liam getting his own fridge.",
     author: "The Editorial Board",
     date: "2026-07-02",
     location: "The sofa",
@@ -26,50 +26,57 @@ window.LIAM_ARTICLES = [
     imageCaption: "Illustration: Liamconomist / Original generated artwork",
     pullQuote: "This is not a U-turn. It is a broadening of the available dinner coalition.",
     body: [
-      "For much of the week, Liam’s position appeared immovable. Friday, he had said, was a Thai-food night. The cabinet—comprising his girlfriend and whoever was active in the group chat—prepared accordingly.",
+      "Since, Liam’s position appeared immovable. Friday, he had said, was a Thai-food night. The cabinet—comprising his girlfriend and whoever was active in the group chat—prepared accordingly.",
       "Then, at 6.42pm, new information emerged. A pizza voucher, previously thought to have expired, was discovered near the fruit bowl. Markets moved immediately.",
       "The shift should not be mistaken for indecision. People familiar with Liam’s thinking say he has long supported a diverse takeaway sector, provided the delivery estimate remains under 35 minutes.",
       "The final order is expected after a further round of consultations and at least eleven minutes of scrolling through menus. Garlic bread remains a red line."
     ]
   },
   {
-    id: "weekend-strategy",
+    id: "morning-routine",
     featured: false,
-    category: "Weekend affairs",
-    title: "Liam’s weekend strategy enters a bold new phase",
-    summary: "A plan to ‘take it easy’ has expanded to include brunch, two errands and an ambitious walk.",
-    author: "Weekend Bureau",
+    category: "Personal affairs",
+    title: "Liam’s morning strategy enters a bold new phase",
+    summary: "Princes Park is still reeling from witnessing an hour of burpees.",
+    author: "Morning Bureau",
     date: "2026-06-28",
-    location: "Melbourne",
+    location: "Carlton",
     readTime: "3 min read",
-    image: "",
-    imageAlt: "",
-    imageCaption: "",
-    pullQuote: "There is still room in the schedule for doing absolutely nothing.",
+    image: "assets/morning-routine-poster.jpg",
+    imageAlt: "Video still of Liam performing burpees during a training session at Princes Park",
+    imageCaption: "Video still: Liamconomist",
+    video: "assets/morning-routine.mp4",
+    videoPoster: "assets/morning-routine-poster.jpg",
+    videoAlt: "Liam performing burpees during a training session at Princes Park",
+    videoCaption: "Video: Liamconomist",
+    pullQuote: "Thus birthed the idea of meeting up at Princes Park once a week and doing burpees across the footy oval.",
     body: [
-      "Liam has unveiled a wide-ranging weekend programme that combines rest with an unexpectedly large number of activities.",
-      "The plan began with a pledge to have no plans. By Saturday morning it had acquired brunch, groceries, a walk and a possible visit to the hardware shop.",
-      "Observers remain optimistic that a nap can be secured before close of business on Sunday."
+      "Liam has unveiled a novel exercise programme that consists purely of doing burpees.",
+      "The plan began with a pledge to do burpees for one mile. Close consultation with exercise scientists revealed slightly worrying data - at least a thousand burpees. Does he and his team have the strength and stamina?",
+      "Initial piloting of the strategy has shown promise. One hour of burpees covers around 400 metres. Additionally, the camaraderie demonstrated in training is unparalleled - free beans for when times get inevitably tough when the burpee mile arrives. He is trying to convince as many parties as possible to join him once a week, in the cold, damp, public grass.",
+      "Observers remain optimistic that a burpee mile can be performed before end of Q3 2026."
     ]
   },
   {
-    id: "mug-ranking",
+    id: "yoghurt-ranking",
     featured: false,
-    category: "Culture",
-    title: "Sources confirm Liam has a new favourite mug",
-    summary: "The blue one has displaced a long-serving incumbent after what aides called a stronger handle performance.",
+    category: "Analysis",
+    title: "Sources confirm Liam has a new favourite yoghurt brand",
+    summary: "Aldi’s Lyttos has displaced a long-serving incumbent after Liam’s yoghurt demand increased tenfold.",
     author: "Objects Desk",
     date: "2026-06-21",
     location: "The kitchen",
     readTime: "2 min read",
-    image: "",
-    imageAlt: "",
-    imageCaption: "",
-    pullQuote: "It is a good mug. But the old mug served with distinction.",
+    image: "assets/yoghurt-ranking.png",
+    imageAlt: "An editorial illustration showing an affordable yoghurt tub overtaking a premium competitor at breakfast",
+    imageCaption: "Illustration: Liamconomist / Original generated artwork",
+    pullQuote: "Jalna is a good yoghurt. But I can't justify the price with the quantities I consume.",
     body: [
-      "A quiet revolution has taken place in Liam’s kitchen cupboard. The blue mug, once reserved for occasional tea, is now the first choice for morning coffee.",
-      "Its rise reflects a combination of capacity, handle comfort and being at the front of the shelf.",
-      "The former favourite is expected to remain in service, especially when the dishwasher has not been emptied."
+      "A loud revolution has taken place in Liam’s kitchen cupboard. Lyttos, Aldi's Greek-style yoghurt, is now the first choice for breakfast, displacing Jalna after years of dependable service.",
+      "Its rise reflects a combination of function, price and bowel movement requirements. For years, yoghurt played a supporting role to eggs and toast. With Liam's recent consumption shifting to include creatine and psyllium husk, demand for a food with more suitable texture grew 140%.",
+      "Eggs briefly retained their position through familiarity and protein content. But yoghurt offered that indispensable powder-carrying capability. It wasn't long before yoghurt surpassed eggs as the breakfast of choice.",
+      "Price secured the regime change. Lyttos promised the required volume without placing undue pressure on the household breakfast budget.",
+      "The former favourite is expected to remain in service, on occasions when Liam does grocery shopping elsewhere."
     ]
   },
   {
@@ -108,14 +115,14 @@ window.LIAM_ARTICLES = [
     pullQuote: "The first coffee established stability. The second may deliver growth.",
     body: [
       "By 9.15am the first coffee had performed admirably. Liam was awake, conversational and aware that it was Tuesday.",
-      "The case for a second cup rests on more ambitious goals: answering an email and moving the laundry from one chair to another.",
+      "The case for a second cup rests on more ambitious goals: creating a new CSGO trading bot and moving his pants from one end of the room to the other.",
       "Critics warn of diminishing returns. Liam has taken their concerns under advisement while switching on the machine."
     ]
   },
   {
-    id: "bone broth",
+    id: "bone-broth",
     featured: false,
-    category: "Life update",
+    category: "Charts",
     title: "Is goat broth overtaking beef broth?",
     summary: "The stats will shape Liam's weekly trip to Queen Victoria Market.",
     author: "Kadir Ergene",
@@ -129,6 +136,95 @@ window.LIAM_ARTICLES = [
     body: [
       ""
     ]
-  }
-};
+  },
+  {
+    id: "missing-food",
+    featured: false,
+    category: "analysis",
+    title: "The Liam effect: fridges tremble in his presence",
+    summary: "Family members have reported a 78% decrease in food disappearance since he moved out.",
+    author: "Appearance Correspondent",
+    date: "2026-06-14",
+    location: "In front of the mirror",
+    readTime: "3 min read",
+    image: "",
+    imageAlt: "",
+    imageCaption: "",
+    pullQuote: ".",
+    body: [
+      ""
+    ]
+  },
+  {
+    id: "czech-base",
+    featured: false,
+    category: "Events",
+    title: "Ordinary man infiltrates Dayz Base",
+    summary: "And what this suggests about Czech security",
+    author: "Kadir Ergene",
+    date: "2026-06-30",
+    location: "Undisclosed, Czech Republic",
+    readTime: "3 min read",
+    image: "assets/your-photo.jpg",
+    imageAlt: "Goats and Cows",
+    imageCaption: "Photo: your name",
+    pullQuote: "The funniest or most dramatic sentence from the story.",
+    body: [
+      ""
+    ]
+  },
+    {
+    id: "stripper-pants",
+    featured: false,
+    category: "Culture",
+    title: "The rise of the stripper pants",
+    summary: "",
+    author: "Kit Cunneen",
+    date: "2026-06-30",
+    location: "Melboner",
+    readTime: "3 min read",
+    image: "assets/your-photo.jpg",
+    imageAlt: "Goats and Cows",
+    imageCaption: "Photo: your name",
+    pullQuote: "The funniest or most dramatic sentence from the story.",
+    body: [
+      ""
+    ]
+  },
+  {
+    id: "skin-removal",
+    featured: true,
+    category: "Culture",
+    title: "A revolutionary, low-cost solution to baby feeding",
+    summary: "It upholds Liam's engineering philosophy - simple solutions are the best.",
+    author: "The Editorial Board",
+    date: "2026-07-02",
+    location: "The sofa",
+    readTime: "4 min read",
+    image: "assets/mouth.png",
+    imageAlt: "A playful editorial collage of a house, a receipt and a hand holding a coin",
+    imageCaption: "Illustration: Liamconomist / Original generated artwork",
+    pullQuote: "This is not a U-turn. It is a broadening of the available dinner coalition.",
+    body: [
+      "Sure, the early-20s man rarely constitutes the main demographic for parenting. Nevertheless"
+    ]
+  },
+    {
+    id: "skin-removal",
+    featured: true,
+    category: "Culture",
+    title: "A revolutionary, low-cost solution to baby feeding",
+    summary: "It upholds Liam's engineering philosophy - simple solutions are the best.",
+    author: "The Editorial Board",
+    date: "2026-07-02",
+    location: "The sofa",
+    readTime: "4 min read",
+    image: "assets/mouth.png",
+    imageAlt: "A playful editorial collage of a house, a receipt and a hand holding a coin",
+    imageCaption: "Illustration: Liamconomist / Original generated artwork",
+    pullQuote: "This is not a U-turn. It is a broadening of the available dinner coalition.",
+    body: [
+      "Sure, the early-20s man rarely constitutes the main demographic for parenting. Nevertheless"
+    ]
+  },
 ];

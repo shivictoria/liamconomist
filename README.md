@@ -3,7 +3,13 @@ Inspiring progress chaotically.
 
 An original, independent newspaper covering events, decisions and policy shifts in the life of Liam Cunneen. 
 
-To publish a new article, follow [`HOW_TO_PUBLISH.md`](HOW_TO_PUBLISH.md). Stories are entered in one simple JavaScript file and automatically appear on the homepage, search, most-read list and full article page.
+To draft or complete an article with Codex, follow [`ARTICLE_WORKFLOW.md`](ARTICLE_WORKFLOW.md). For manual publishing, use [`HOW_TO_PUBLISH.md`](HOW_TO_PUBLISH.md). Stories are entered in one simple JavaScript file and automatically appear on the homepage, search, category pages, article index, briefing and full article page.
+
+Validate articles without installing dependencies:
+
+```bash
+node scripts/article-workflow.js validate
+```
 
 ## Run locally
 
