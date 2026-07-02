@@ -111,5 +111,24 @@ window.LIAM_ARTICLES = [
       "The case for a second cup rests on more ambitious goals: answering an email and moving the laundry from one chair to another.",
       "Critics warn of diminishing returns. Liam has taken their concerns under advisement while switching on the machine."
     ]
+  },
+  {
+    id: "bone broth",
+    featured: false,
+    category: "Life update",
+    title: "Is goat broth overtaking beef broth?",
+    summary: "The stats will shape Liam's weekly trip to Queen Victoria Market.",
+    author: "Kadir Ergene",
+    date: "2026-06-30",
+    location: "Casa Brunswick",
+    readTime: "3 min read",
+    image: "assets/your-photo.jpg",
+    imageAlt: "Goats and Cows",
+    imageCaption: "Photo: your name",
+    pullQuote: "The funniest or most dramatic sentence from the story.",
+    body: [
+      ""
+    ]
   }
+};
 ];
