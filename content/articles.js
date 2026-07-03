@@ -26,9 +26,9 @@ window.LIAM_ARTICLES = [
     imageCaption: "Illustration: Liamconomist / Original generated artwork",
     pullQuote: "I challenge myself to stay in the same city for 12 months.",
     body: [
-      "On a Himalayan peak, in a 10-day silent retreat, a remote farming town in China, swimming under the Eiffel Tower, stacking a rock cairn in Utah. For years, the only way Liam's family and friends could trace his location was by pinging him a codephrase - 'Where in the world are you?'. They learned pretty quickly to brace themselves for a random response.",
+      "On a Himalayan peak, in a 10-day silent retreat, a remote farming town in China, swimming under the Eiffel Tower, stacking a rock cairn in Utah, hitchhiking up Eastern Australia. For years, the only way Liam's family and friends could trace his location was by pinging him a codephrase - 'Where in the world are you?'. They learned pretty quickly to brace themselves for a random response.",
       "As of June 2026, a metric quietly ticked over a new milestone. Liam's coordinates, previously erratic, hadn't changed for four months. Markets moved immediately. The shift should not be mistaken for an error - Liam did not forget how to get to the airport nor did he lose his bank card. Instead, it reflects Liam's new housing policy.",
-      "Famous for his pro-adventure policies, this comes a shock to many. Yet people familiar with Liam’s thinking would know of his strong support for the diverse challenge sector. It's with this philosophy that Liam adopted his new housing policy - imbuing challenge into what most might think as routine - staying put.",
+      "Famous for his pro-adventure policies, this comes a shock to many. Yet only the closest analysts would be familiar with his lesser known policies which express strong support for the challenge sector. It's with this philosophy that Liam adopted his new housing policy - imbuing challenge into what most might think as routine - staying put.",
       "For the wild nomad, Brunswick presents new challenges. Ordering a magic without knowing what it is. Trying to remember what food is in his fridge when he's at the shops. Navigating Barkly Square and retaining sanity.",
       "As of now, it is still unclear what the policy seeks to achieve but it guarantees one thing - that we'll discover a new challenge at the end of the 12 months."
     ]
@@ -465,9 +465,9 @@ window.LIAM_ARTICLES = [
     videoCaption: "Video: Liamconomist",
     pullQuote: "Remember, I can always bite.",
     body: [
-      "I bark because the household requires governance. Governance is a highly complex interconnected system with a narrow margin of error. I bark in order to ensure that the household stays functioning, so everyone has access to food and live in a harmonious environment.",
+      "I bark because the household requires governance. Governance is a highly complex interconnected system with a narrow margin of error. I bark in order to ensure that the household stays functioning, so everyone has access to food and upholds our right to live in a harmonious environment.",
       "My public facing strategy might seem unusual, callous even. I come up to you, you bend down to pat me, and I leave before you get to. But you see, it is because I can never switch off. Whenever I approach a person, I am not actually asking for pets, instead I'm actually conducting a very thorough inspection. I need to keep my humans safe. But my inspection comes at the cost of braving your rude customs; you weird bipedals think it's okay to bop us on the head. I can tolerate the insult for a while, but as you can see my patience wears thin when every person tries to invade my space. If you really wanted to acknowledge me respectfully, just smell my bum like a normal indiviual.",
-      "My food and waste management policies have also attracted criticism. Yeah, I bark at you a lot when you're eating but the reasons are two-fold. One, the risks of under-eating remain steadily high. I must ensure I am adequately satiated. And two, for some reason you are so careless with your leftovers. It is unjust, unacceaptable and simply unsustainable to throw away food when I'm right there, underfed. So I bark to keep you guys in check. Sometimes that's not enough, so I have to take matters into my own paws, and that is why I will swipe. It's in the policy, please familiarise yourselves.",
+      "My food and waste management policies have also attracted criticism. Yeah, I bark at you a lot when you're eating but the reasons are two-fold. One, the risks of under-eating remain steadily high. I must ensure I am adequately satiated. And two, for some reason you are careless with your leftovers. It is unjust, unacceaptable and simply unsustainable to throw away food when I'm right there, under-fed. So my barks are gentle nudges to keep you in check. Sometimes that's not enough, so I have to take matters into my own paws, and that is why I will swipe. It's in the policy, don't act so surprised.",
       "Finally, I would like to shed light on why I bark when you say the W word. If you know my stance, you would know that going for a walk is a social engagement that we don't take lightly. The political implication of mentioning walk but not going for one is similar to, how would I say it for humans to understand, like saying you are a democracy but don't hold elections. The fact that you promise a walk but don't go on one is pure treason, and wreaks havoc upon our just society. Thus a bark is implemented simply to remind you of your sovereign duties.",
       "I wish to thank you all for the opportunity to clarify the intentions behind my barking. Next week I'll elucidate why I growl when I'm happy. Now please give me kibble."
     ]
@@ -536,6 +536,81 @@ window.LIAM_ARTICLES = [
       "Early trials produced extraordinary results. Liam remained seated for 68% of the time without beginning an endurance event, entering freezing water or proposing an activity that required everyone to leave the house immediately.",
       "The system is inexpensive, requires no electricity and can be assembled on most sofas. Its principal limitation is the availability of a cooperative baby, though researchers note that Liam appears unusually willing to hold one.",
       "Further testing will determine whether the technology works outdoors. Analysts remain cautious: exposure to a nearby lake, mountain or unattended bicycle may exceed the sandwich’s current containment rating."
+    ]
+  },
+  {
+    id: "altitude-sickness",
+    featured: false,
+    category: "daily briefing",
+    title: "Liam hauls 10kg of noodles and coffee up mountain to save $5, immediately gets altitude sickness and can't eat any of it",
+    summary: "Is it the smartest or dumbest economic move of the century?",
+    author: "Shanan Kilner",
+    date: "2026-07-02",
+    location: "Nepal",
+    readTime: "3 min read",
+    image: "assets/altitude-sickness.png",
+    imageAlt: "A cut-paper editorial illustration of an exhausted hiker in Nepal carrying an enormous backpack filled with noodles and coffee",
+    imageCaption: "Illustration: Liamconomist / Original generated artwork",
+    pullQuote: "Water received less attention.",
+    body: [
+      "Liam’s plan was based on a familiar economic principle: don’t purchase food for an inflated price when you can bring your own.",
+      "He therefore packed ten kilograms of two-minute noodles, stale bread from a Nepalese bakery, nuts and coffee, together with a high-altitude gas burner. The intention was to prepare a communal coffee at the summit with his siblings, admire the Nepalese Himalayas and avoid approximately five dollars in meal expenses.",
+      "Liam then climbed at a pace better suited to sea level, carrying a substantial quantity of food but barely enough fluid to sustain the person transporting it. In doing so, he conducted an unsupervised experiment into the combined effects of dehydration, exertion and altitude.",
+      "The results were conclusive.",
+      "By the time Liam reached the summit, he was suffering from altitude sickness and was unable to eat the noodles, enjoy the coffee or properly appreciate the view. The physical achievement of reaching a Himalayan summit was therefore followed by the more modest achievement of sitting beside ten kilograms of uneaten provisions while feeling extremely unwell.",
+      "The gas burner was eventually used and the coffee was grudgingly prepared. Liam consumed little of it.",
+      "From a narrow accounting perspective, the plan succeeded. Five dollars had been saved. In exchange, Liam forfeited his appetite, his enjoyment of the summit and much of his capacity to remain upright.",
+      "The mountain offered a remarkable view and a considerable sense of triumph. Liam experienced neither. The noodles, however, completed the journey in excellent condition.",
+      "<em>Shanan Kilner is a Foreign Liamconomist Correspondant.</em>"
+    ]
+  },
+  {
+    id: "revenge",
+    featured: false,
+    category: "history",
+    title: "Justice served",
+    summary: "Loyalty reigns as wheelbarrow found guilty of sister maiming",
+    author: "Caitlyn Cunneen",
+    date: "2026-06-14",
+    location: "Brisbane",
+    readTime: "5 min read",
+    image: "assets/revenge.png",
+    imageAlt: "A cut-paper editorial illustration of a solemn toddler standing over the dismantled remains of a plastic toy wheelbarrow",
+    imageCaption: "Illustration: Liamconomist / Original generated artwork",
+    pullQuote: "Whoops. That wheely sucks.",
+    body: [
+      "The conflict began with an incident that, by most adult accounts, would have been classified as a domestic accident. A fall down the stairs ended with Liam's older sister suffering a deep cut to her leg, inflicted by an unfortunate encounter with his plastic toy wheelbarrow. She was taken to hospital for stitches. Liam, two years old and left behind, reached a markedly different conclusion.",
+      "For him, there was no ambiguity.",
+      "His big sister had been hurt. The wheelbarrow had been there. The guilty party had identified itself. Military historians often search for grand ideological motives behind acts of retaliation. Liam's campaign required no such analysis. It was driven by a simpler doctrine: someone had hurt his sister, and someone had to answer for it.",
+      "The accused was, regrettably for itself, still on the premises. While his sister was receiving lifesaving medical care, Liam launched what can only be described as a revenge killing. There would be no investigation into the role of gravity, no consideration of whether the wheelbarrow had acted with intent, and no appeal against the sentence. In Liam's world, justice was neither procedural nor complicated. It was immediate.",
+      "The attack was swift and absolute. The wheelbarrow was hunted down and subjected to overwhelming force. Plastic cracked under repeated blows. Its frame was dismantled with the determination of someone avenging a grievous wrong. By the end of the operation, the toy had been reduced to scattered fragments. Reconstruction was neither possible nor contemplated.",
+      "By the time his sister returned home, stitched, bandaged and undoubtedly sore, Liam had already delivered what he regarded as justice. The perpetrator had been found and eliminated in her honour. Measured strategically, the operation changed nothing. The stitches remained. The staircase retained its commanding position over household traffic. The laws of physics emerged from the affair entirely unpunished.",
+      "Yet to judge the campaign solely by its practical consequences would be to misunderstand its purpose. In Liam's eyes, the world had briefly become divided into two camps: his big sister, and the thing that had made her cry. Faced with that choice, there was never any doubt where his loyalties lay.",
+      "The final tally was modest. One injured leg. Several stitches. One plastic wheelbarrow executed without trial. For Liam, however, the campaign was an unequivocal success. His sister had been harmed. He had avenged her.",
+      "<em>Caitlyn Cunneen, Liamconomist Correspondent of 25 years, is the world's leading expert on Liam.</em>"
+    ]
+  },
+  {
+    id: "handstand-supremacy",
+    featured: false,
+    category: "opinion",
+    title: "When is it okay to do a handstand?",
+    summary: "Discrimination against handstands in bars: a symptom of right-way-up supremacy?",
+    author: "Ankle Oatmilk",
+    date: "2026-06-21",
+    location: "Brunswick",
+    readTime: "3 min read",
+    image: "assets/handstand-supremacy.png",
+    imageAlt: "A cut-paper editorial illustration of Liam doing a handstand in a Brunswick bar while rigidly upright patrons look on",
+    imageCaption: "Illustration: Liamconomist / Original generated artwork",
+    pullQuote: "The right-way-up establishment has mistaken orientation for order.",
+    body: [
+      "Liam is an avid handstander. Parks, beaches, living rooms and other public spaces are not merely places to stand: they are opportunities to reconsider which limbs should bear the responsibilities of citizenship.",
+      "Bars have proved less receptive to this programme. The right-way-up establishment maintains an entrenched expectation that patrons keep their feet near the floor and their heads above it. This convention is presented as common sense, which is how dominant ideologies often avoid having to explain themselves.",
+      "The political implications are difficult to ignore. Upright society places the head at the top, the feet at the bottom and calls the arrangement natural. A handstand overturns that hierarchy. Hands—traditionally condemned to labour—suddenly carry the whole system, while the feet enjoy unprecedented social mobility.",
+      "Defenders of the existing order cite safety, furniture and the proximity of other people’s drinks. These are not entirely frivolous concerns. A badly timed dismount can turn peaceful inversion into an expansionist foreign policy involving several bar stools.",
+      "But a blanket prohibition goes too far. Not every handstand is disorderly, just as not every upright patron is stable. A controlled inversion in an empty patch of floor may pose less danger than a conventionally oriented person after six pints.",
+      "A reasonable settlement is possible: no handstands near glassware, crowded walkways or chandeliers, but tolerance wherever space and balance permit. Liam does not seek to abolish standing. He asks only that society recognise another way up.",
     ]
   },
 ];

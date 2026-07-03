@@ -7,7 +7,7 @@ const CATEGORY_CONFIG = {
   decisions: {
     title: "Decisions",
     description: "Close coverage of Liam’s choices, reversals and strongly worded positions - from dinner policy to weekend strategy.",
-    aliases: ["decisions", "decision", "domestic policy","editorial","perspective"]
+    aliases: ["decisions", "decision", "domestic policy","editorial","perspective","history"]
   },
   opinion: {
     title: "Liam opinion",
