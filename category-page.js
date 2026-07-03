@@ -1,13 +1,13 @@
 const CATEGORY_CONFIG = {
-  "life-updates": {
-    title: "Life updates",
+  "current-affairs": {
+    title: "Current Affairs",
     description: "Up-to-date news and analysis tracking the everyday events, personal affairs and unexpected developments shaping Liam’s life.",
-    aliases: ["life updates", "life update", "personal affairs", "events", "daily briefing", "weekend affairs"]
+    aliases: ["life updates", "life update", "personal affairs", "events", "daily briefing", "security", "war & conflict"]
   },
   decisions: {
     title: "Decisions",
     description: "Close coverage of Liam’s choices, reversals and strongly worded positions - from dinner policy to weekend strategy.",
-    aliases: ["decisions", "decision", "domestic policy","editorial"]
+    aliases: ["decisions", "decision", "domestic policy","editorial","perspective"]
   },
   opinion: {
     title: "Liam opinion",
@@ -22,8 +22,8 @@ const CATEGORY_CONFIG = {
 };
 
 const params = new URLSearchParams(window.location.search);
-const requestedSlug = params.get("category") || "life-updates";
-const slug = CATEGORY_CONFIG[requestedSlug] ? requestedSlug : "life-updates";
+const requestedSlug = params.get("category") || "current-affairs";
+const slug = CATEGORY_CONFIG[requestedSlug] ? requestedSlug : "current-affairs";
 const config = CATEGORY_CONFIG[slug];
 const normalize = (value = "") => value.trim().toLowerCase();
 const escapeHtml = (value = "") => String(value).replace(/[&<>'"]/g, (character) => ({

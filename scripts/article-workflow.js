@@ -6,14 +6,14 @@ const vm = require("node:vm");
 
 const root = path.resolve(__dirname, "..");
 const articleFile = path.join(root, "content", "articles.js");
-const canonicalCategories = ["Life updates", "Decisions", "Liam opinion", "Charts & vibes"];
+const canonicalCategories = ["Current Affairs", "Decisions", "Liam opinion", "Charts & vibes"];
 const categoryAliases = new Map([
-  ["life updates", "Life updates"],
-  ["life update", "Life updates"],
-  ["personal affairs", "Life updates"],
-  ["events", "Life updates"],
-  ["daily briefing", "Life updates"],
-  ["weekend affairs", "Life updates"],
+  ["life updates", "Current Affairs"],
+  ["life update", "Current Affairs"],
+  ["personal affairs", "Current Affairs"],
+  ["events", "Current Affairs"],
+  ["daily briefing", "Current Affairs"],
+  ["weekend affairs", "Current Affairs"],
   ["decisions", "Decisions"],
   ["decision", "Decisions"],
   ["domestic policy", "Decisions"],
