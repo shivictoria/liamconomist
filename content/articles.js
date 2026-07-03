@@ -476,7 +476,7 @@ window.LIAM_ARTICLES = [
     id: "familial-generosity",
     featured: false,
     category: "analysis",
-    title: "The Hidden Cost of Familial Generosity",
+    title: "The hidden cost of familial generosity",
     summary: "Exploring the Liam Effect: where fridges tremble in his presence.",
     author: "Caitlyn Cunneen",
     date: "2026-07-04",
@@ -494,5 +494,48 @@ window.LIAM_ARTICLES = [
       "Until meaningful reforms are introduced, such as compulsory snack declarations upon entry or a quota system for leftover consumption, households are unlikely to change their behaviour. After all, a well-fed Liam just another indicator of a successful family gathering.",
       "<em>Caitlyn Cunneen, Liamconomist Correspondent of 25 years, is the world's leading expert on Liam.</em>"
     ],
+  },
+  {
+    id: "water-addiction",
+    featured: false,
+    category: "analysis",
+    title: "What water addiction looks like",
+    summary: "The signs can be frightening and misunderstood, until you know what to look for.",
+    author: "Anya Suzuki",
+    date: "2026-07-04",
+    location: "Brisbane",
+    readTime: "3 min read",
+    image: "assets/water.jpg",
+    imageCaption: "Pictured: Liam swimming at Victoria's southern most point.",
+    pullQuote: "Where is Liam? Oh in the water again.",
+    body: [
+      "Friends and family have become increasingly concerned by Liam’s apparent compulsion to enter a body of water upon sight of it. The behaviour cannot reliably be attributed to hygiene, exercise, financial pressure or local custom, and worryingly, in any temperature.",
+      "The warning signs first emerged during a camping trip. Faced with the choice between investing in a proper shower costing just $1 and bathing in a freezing lake, Liam launched into the lake. Economists remain divided over whether this represented impressive thrift or a serious collapse in rational decision-making.",
+      "The behaviour has not been confined to Australia, pointing to a darker force at play. While hiking in Nepal, Liam encountered an icy river and once again decided that observation was insufficient. His entering the water reportedly alarmed the hiking guide, a professional presumably accustomed to managing altitude, difficult terrain and unpredictable visitors, but not this.",
+      "Researchers believe that Liam may experience cold water differently from the general population. Characterised by a loss of control, cravings, and continuous use despite negative consequences, the signs point to addiction.",
+      "The pattern is now difficult to dismiss. Freezing lakes, Himalayan rivers and any sufficiently hostile body of water may trigger another episode. Friends are advised to remain calm, carry a towel and avoid pointing out that a warm shower is available nearby."
+    ]
+  },
+  {
+    id: "funcle-sandwich",
+    featured: false,
+    category: "daily briefing",
+    title: "The latest technology finally effectively contains Liam",
+    summary: "Funcle Sandwich heralded as the innovation of the century.",
+    author: "Anya Suzuki",
+    date: "2026-07-02",
+    location: "Brisbane",
+    readTime: "3 min read",
+    image: "assets/funcle.jpg",
+    imageCaption: "Pictured: Funcle Sandwich technology in action",
+    pullQuote: "The baby was truly the linchpin in the breakthrough.",
+    body: [
+      "After years of failed containment efforts, researchers have unveiled the Funcle Sandwich: a simple but remarkably effective system for keeping Liam in one place.",
+      "The technology positions Liam between two family members, creating a layered structure from which escape is socially awkward and physically impractical. An adult applies stabilising pressure from behind while a baby occupies Liam’s arms and attention from the front.",
+      "Previous feeble attempts to contain Liam leveraged agentic AI, autonomous vehicles, quantum computing and patesserie skills, blowing past a budget of $2 billion. The Funcle Sandwich succeeds because it converts his responsibilities as a fun uncle into a restraint mechanism.",
+      "Early trials produced extraordinary results. Liam remained seated for 68% of the time without beginning an endurance event, entering freezing water or proposing an activity that required everyone to leave the house immediately.",
+      "The system is inexpensive, requires no electricity and can be assembled on most sofas. Its principal limitation is the availability of a cooperative baby, though researchers note that Liam appears unusually willing to hold one.",
+      "Further testing will determine whether the technology works outdoors. Analysts remain cautious: exposure to a nearby lake, mountain or unattended bicycle may exceed the sandwich’s current containment rating."
+    ]
   },
 ];
