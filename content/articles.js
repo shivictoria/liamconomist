@@ -140,26 +140,26 @@ window.LIAM_ARTICLES = [
       "Critics warn of diminishing returns. Liam has taken their concerns under advisement while switching on the machine."
     ]
   },
-  {
-    id: "missing-food",
-    featured: false,
-    category: "analysis",
-    title: "The Liam Effect: fridges tremble in his presence",
-    summary: "Family members have reported a 78% decrease in food disappearance since he got his own fridge in Brunswick.",
-    author: "Eedee",
-    date: "2026-06-14",
-    location: "Geelong",
-    readTime: "2 min read",
-    image: "assets/fridge.png",
-    imageAlt: "",
-    imageCaption: "",
-    pullQuote: "The Liam Effect has not disappeared. It has merely been given its own fridge.",
-    body: [
-    "His lifestyle could have been largely described as nomadic, his path an anchor to which the Liam Effect could be studied. For years, Liam's visits to a family member's house followed a familiar pattern: arrive warmly, greet with too much energy, inspect the fridge, and leave behind a household light on their week's groceries.",
-    "New emerging data suggests the era of food disappearance may be ending. After months of living in his own Brunswick home, Liam's family have reported a 78% decrease in missing food. The decline has been attributed not to a change in appetite, ideology or moral philosophy, but to a more powerful structural reform.",
-    "Still, analysts warn against complacency. The long-term question is whether the family’s food security will hold during visits, holidays and periods of Brunswick understocking. For now, however, the data is clear: the Liam effect has been contained, not eliminated."
-    ]
-  },
+  // {
+  //   id: "missing-food",
+  //   featured: false,
+  //   category: "analysis",
+  //   title: "The Liam Effect: fridges tremble in his presence",
+  //   summary: "Family members have reported a 78% decrease in food disappearance since he got his own fridge in Brunswick.",
+  //   author: "Eedee",
+  //   date: "2026-06-14",
+  //   location: "Geelong",
+  //   readTime: "2 min read",
+  //   image: "assets/fridge.png",
+  //   imageAlt: "",
+  //   imageCaption: "",
+  //   pullQuote: "The Liam Effect has not disappeared. It has merely been given its own fridge.",
+  //   body: [
+  //   "His lifestyle could have been largely described as nomadic, his path an anchor to which the Liam Effect could be studied. For years, Liam's visits to a family member's house followed a familiar pattern: arrive warmly, greet with too much energy, inspect the fridge, and leave behind a household light on their week's groceries.",
+  //   "New emerging data suggests the era of food disappearance may be ending. After months of living in his own Brunswick home, Liam's family have reported a 78% decrease in missing food. The decline has been attributed not to a change in appetite, ideology or moral philosophy, but to a more powerful structural reform.",
+  //   "Still, analysts warn against complacency. The long-term question is whether the family’s food security will hold during visits, holidays and periods of Brunswick understocking. For now, however, the data is clear: the Liam effect has been contained, not eliminated."
+  //   ]
+  // },
   {
     id: "czech-base",
     featured: false,
@@ -471,5 +471,28 @@ window.LIAM_ARTICLES = [
       "Finally, I would like to shed light on why I bark when you say the W word. If you know my stance, you would know that going for a walk is a social engagement that we don't take lightly. The political implication of mentioning walk but not going for one is similar to, how would I say it for humans to understand, like saying you are a democracy but don't hold elections. The fact that you promise a walk but don't go on one is pure treason, and wreaks havoc upon our just society. Thus a bark is implemented simply to remind you of your sovereign duties.",
       "I wish to thank you all for the opportunity to clarify the intentions behind my barking. Next week I'll elucidate why I growl when I'm happy. Now please give me kibble."
     ]
+  },
+  {
+    id: "familial-generosity",
+    featured: false,
+    category: "analysis",
+    title: "The Hidden Cost of Familial Generosity",
+    summary: "Exploring the Liam Effect: where fridges tremble in his presence.",
+    author: "Caitlyn Cunneen",
+    date: "2026-07-04",
+    location: "Melboner",
+    readTime: "3 min read",
+    image: "assets/fridge.png",
+    imageCaption: "Image: Liamconomist / Original generated image",
+    pullQuote: "Family members have reported a 78% decrease in food disappearance since he got his own fridge in Brunswick.",
+    body: [
+      "Families are often regarded as the last bastion of unconditional hospitality. A relative arrives at the door, the kettle is put on, the biscuit tin appears, and leftovers mysteriously become 'fair game.' Few illustrate this peculiar economic arrangement better than Liam.",
+      "On paper, Liam is a devoted brother, son and uncle. In practice, his visits coincide with a statistically improbable depletion of household food reserves.",
+      "Cupboards once stocked with snacks are left noticeably lighter. Cheese vanishes. Leftover curry, carefully saved for tomorrow's lunch, quietly disappears. It has become something of an accepted truth that, wherever Liam goes, the pantry somehow becomes a little less full and the dishes are always done.",
+      "The incentives are obvious. Maintaining one's own pantry is expensive; maintaining several others is remarkably economical. By distributing his appetite across an extended family network, Liam has achieved what economists might describe as a highly diversified consumption portfolio. The costs are happily absorbed, while the benefits accrue almost entirely to the diner.",
+      "The family, for their part, have adapted. Extra snacks are bought with a knowing smile, leftovers are hidden only half-seriously, and every unexplained disappearance from the fridge is met with the same question: 'Has Liam been here?'. It has become less a source of frustration than a reliable family tradition.",
+      "Until meaningful reforms are introduced, such as compulsory snack declarations upon entry or a quota system for leftover consumption, households are unlikely to change their behaviour. After all, a well-fed Liam just another indicator of a successful family gathering.",
+      "<em>Caitlyn Cunneen, Liamconomist Correspondent of 25 years, is the world's leading expert on Liam.</em>"
+    ],
   },
 ];
