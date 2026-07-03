@@ -226,7 +226,7 @@ window.LIAM_ARTICLES = [
     category: "events",
     title: "Liam's gaslighting conviction",
     summary: "How the man convinced his own mother and best mate to jump out of a plane.",
-    author: "Poetry-Chen Liu",
+    author: "Lucyfer Bohaner",
     date: "2026-06-21",
     location: "Torquay Airport",
     readTime: "2 min read",
@@ -561,7 +561,7 @@ window.LIAM_ARTICLES = [
       "The gas burner was eventually used and the coffee was grudgingly prepared. Liam consumed little of it.",
       "From a narrow accounting perspective, the plan succeeded. Five dollars had been saved. In exchange, Liam forfeited his appetite, his enjoyment of the summit and much of his capacity to remain upright.",
       "The mountain offered a remarkable view and a considerable sense of triumph. Liam experienced neither. The noodles, however, completed the journey in excellent condition.",
-      "<em>Shanan Kilner is a Foreign Liamconomist Correspondant.</em>"
+      "<em>Shanan Kilner is a Foreign Liamconomist Correspondant. He holds a PhD in Behavourial Liam.</em>"
     ]
   },
   {
@@ -591,7 +591,7 @@ window.LIAM_ARTICLES = [
     ]
   },
   {
-    id: "handstand-supremacy",
+    id: "and-supremacyhandst",
     featured: false,
     category: "opinion",
     title: "When is it okay to do a handstand?",
