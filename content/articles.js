@@ -613,4 +613,26 @@ window.LIAM_ARTICLES = [
       "A reasonable settlement is possible: no handstands near glassware, crowded walkways or chandeliers, but tolerance wherever space and balance permit. Liam does not seek to abolish standing. He asks only that society recognise another way up.",
     ]
   },
+    {
+    id: "terraforming-butter",
+    featured: false,
+    category: "decisions",
+    title: "Terraforming butter",
+    summary: "CunneenCorp’s trillion-dollar plan to flatten Fridgedœr’s butter mountains has left taxpayers spread thin.",
+    author: "Trungo Mumble",
+    date: "2026-07-04",
+    location: "Fridgedœr",
+    readTime: "3 min read",
+    image: "assets/terraforming-butter.png",
+    imageAlt: "An editorial illustration of construction crews and protesters surrounding two enormous butter mountains inside a frozen refrigerator",
+    imageCaption: "Illustration: Liamconomist / Original generated artwork",
+    pullQuote: "The cost to the taxpayer is just whey too high.",
+    body: [
+      "The vast mountain ranges of Bü Teĥr Sœft and Ĺur Pëjk sit in the high alpine, sub-4° country of Fridgedœr. It is here that an unconventional alliance of environmentalists, sandwich artists and dairy enthusiasts have made camp, protesting CunneenCorp's latest venture. ",
+      "CunneenCorp, headed by the reclusive entrapaneur Liam Cunneen, has recently filed extraordinary motions within Fridgedœr's national congress to completely flatten both Bü Teĥr Sœft and Ĺur Pëjk. Estimated to cost the country's taxpayers ₩4.2 Billion Western-Stars (approximately $1 Trillion Aud), the company forecasts the project creating thousands of jobs and 'rectifying the problematic terrain.'",
+      "A spokesperson for Mr Cunneen spoke exclusively to this paper 'We believe this is the only suitable option for the mountain ranges.' Traversal and harvesting of the range's natural resourses has become untenable and while CunneenCorp has operated at a loss for several years, the undulation and craggyness of these mountains have meant that terraforming has become the only option. ",
+      "Mungo Trumble, avid dairy enthusiast, spoke to this reporter on condition of anonymity. 'I don't really understand the fuss, the hills have never affected my harvest. The cost to the taxpayer is just whey too high.'",
+      "Congress has referred the plans to its Environmental Cowmission however there are concerns from those opposing the plan that the head of the Cowmission, Furphy 'butterdog' Moon, has been implicated in several high profile corruption investigations, as well as concerns over allegations of jury tampering on a 2022 grand butter larceny trial.  Despite this, Congress and CunneenCorp are confident of a report to be tables in the third quart of the year and a vote by summer, with works to start before the stiff peaks start to melt."
+    ]
+  },
 ];
