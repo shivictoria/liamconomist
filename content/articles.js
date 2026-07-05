@@ -591,7 +591,7 @@ window.LIAM_ARTICLES = [
     ]
   },
   {
-    id: "and-supremacyhandst",
+    id: "handstand-supremacy",
     featured: false,
     category: "opinion",
     title: "When is it okay to do a handstand?",
